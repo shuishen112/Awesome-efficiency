@@ -7,6 +7,8 @@ To mitigate LLM inference costs, there are many approaches are proposed, includi
 | --------------- | :----: | :----: | :----: |
 | [Prompt-prompted Mixture of Experts for Efficient LLM Generation](https://arxiv.org/abs/2404.01365v1) | 2024 | Arxiv | no Run|
 | [Scalable LLM Math Reasoning Acceleration with Low-rank Distillation](https://arxiv.org/abs/2505.07861) | 2024 | Arxiv | no Run|
+| [CATS: Contextually-Aware Thresholding for Sparsity in Large Language Models](https://arxiv.org/pdf/2404.08763) | 2024 | Arxiv | no Run|
+
 
 
 ## KV cache compression
