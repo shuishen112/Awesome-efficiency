@@ -11,7 +11,7 @@ Recent work about the sparsity has framed the rows of weight matrices in MLP lay
 | [Prompt-prompted Mixture of Experts for Efficient LLM Generation](https://arxiv.org/abs/2404.01365v1) | 2024 | Arxiv | no Run|
 | [Scalable LLM Math Reasoning Acceleration with Low-rank Distillation](https://arxiv.org/abs/2505.07861) | 2024 | Arxiv | no Run|
 | [CATS: Contextually-Aware Thresholding for Sparsity in Large Language Models](https://arxiv.org/pdf/2404.08763) | 2024 | Arxiv | no Run|
-
+| [MoEfication: Transformer Feed-forward Layers are Mixtures of Experts](https://arxiv.org/abs/2110.01786) | 2022 | EMNLP | no Run|
 ## Mixture of Experts (MoE)
 
 ### Mixture of LoRA adapters
