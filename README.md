@@ -29,18 +29,42 @@ Recent work about the sparsity has framed the rows of weight matrices in MLP lay
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
 | --------------- | :----: | :----: | :----: |
 | [Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference](https://arxiv.org/abs/2402.09398) | 2024 | Arxiv | no Run|
+| [Towards Modular LLMs by Building and Reusing a Library of LoRAs](https://arxiv.org/abs/2405.11157) | 2024 | ICML | no Run|
 
+## Routing Methods
 
 ## Model Merging
+| **Paper Title** | **Year** | **Conference/Journal** | **Code** |
+| --------------- | :----: | :----: | :----: |
+| [Learning to Route Among Specialized Experts for Zero-Shot Generalization](https://arxiv.org/pdf/2402.05859) | 2024 | ICLR | no Run|
+| 
+
+## methods for model merging
+
+| **Paper Title** | **Year** | **Conference/Journal** | **Code** |
+| --------------- | :----: | :----: | :----: |
+| [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/2306.12621) | 2018 | UAI | no Run|
+| [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/pdf/2203.05482) | 2022 | ICML2022 | no Run|
+| [Merging models with fisher-weighted averaging](https://arxiv.org/abs/2111.09832) | 2022 | NeurIPS | no Run|
+| [Dataless Knowledge Fusion by Merging Weights of Language Models](https://arxiv.org/abs/2212.09849) | 2023 | ICLR | no Run|
+| [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089) | 2023 | ICLR | no Run|
+| [Ties-merging: Resolving interference when merging models.](https://arxiv.org/abs/2306.01708) | 2023 | NeurIPS | no Run|
+| [Language Models are Super Mario:Absorbing Abilities from Homologous Models as a Free Lunch](https://openreview.net/pdf?id=fq0NaiU8Ex) | 2024 | ICML | no Run|
+| [Localizing Task Information for Improved Model Merging and Compression](https://arxiv.org/pdf/2405.07813) | 2024 | ICML | no Run|
+| [Twin-Merging: Dynamic Integration of Modular Expertise in Model Merging](https://proceedings.neurips.cc/paper_files/paper/2024/file/8fcd17eb91bae20d9826786d7d6be799-Paper-Conference.pdf) | 2024 | NeurIPS | no Run|
+| [Multi-task model merging via adaptive weight disentanglement](https://arxiv.org/pdf/2411.18729) | 2024 | Arxiv | no Run|
+| [MODEL MERGING WITH SVD TO TIE THE KNOTS](https://arxiv.org/pdf/2410.19735) | 2025 | ICLR | no Run|
+| [Whoever Started the Interference Should End It: Guiding Data-Free Model Merging via Task Vectors](https://arxiv.org/pdf/2503.08099) | 2025 | ICML | no Run|
+| [Modeling Multi-Task Model Merging as Adaptive Projective Gradient Descent](https://arxiv.org/abs/2501.01230) | 2025 | ICML | no Run|
+| [DC-Merge: Improving Model Merging with Directional Consistency](https://arxiv.org/abs/2603.06242) | 2026 | CVPR | no Run|
 
 
-## multimodal model merging
+### multimodal model merging
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
 | --------------- | :----: | :----: | :----: |
 | [An Empirical Study of Multimodal Model Merging](https://arxiv.org/pdf/2304.14933) | 2023 | EMNLP | no Run|
 
-
-
+### model merging survey
 
 
 
