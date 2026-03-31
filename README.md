@@ -12,6 +12,7 @@ Recent work about the sparsity has framed the rows of weight matrices in MLP lay
 | [Scalable LLM Math Reasoning Acceleration with Low-rank Distillation](https://arxiv.org/abs/2505.07861) | 2024 | Arxiv | no Run|
 | [CATS: Contextually-Aware Thresholding for Sparsity in Large Language Models](https://arxiv.org/pdf/2404.08763) | 2024 | Arxiv | no Run|
 | [MoEfication: Transformer Feed-forward Layers are Mixtures of Experts](https://arxiv.org/abs/2110.01786) | 2022 | EMNLP | no Run|
+
 ## Mixture of Experts (MoE)
 
 ### Mixture of LoRA adapters
@@ -21,6 +22,9 @@ Recent work about the sparsity has framed the rows of weight matrices in MLP lay
 | [Mixture of lora experts](https://arxiv.org/abs/2404.01365v1) | 2024 | ICLR | not available|
 | [Mixlora: Enhancing large language models fine-tuning with lora-based mixture of experts](https://arxiv.org/abs/2404.15159) | 2024 | ICLR | not available|
 | [When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications](https://dl.acm.org/doi/pdf/10.1145/3626772.3657722) | 2024 | SIGIR |[code](https://github.com/Applied-Machine-Learning-Lab/MOELoRA-peft)|
+| [Towards Modular LLMs by Building and Reusing a Library of LoRAs](https://arxiv.org/abs/2405.11157) | 2024 | ICML | no Run|
+| [LoRA-Mixer: Coordinate Modular LoRA ExpertsThrough Serial Attention Routing](https://arxiv.org/pdf/2507.00029) | 2026 | ICLR | not available|
+| [UNITE: Universal kNowledge Integration from Task-specific Experts](https://openreview.net/forum?id=WnW0zndglL) | 2026 | ICLR | not available|
 
 
 
@@ -37,7 +41,12 @@ Recent work about the sparsity has framed the rows of weight matrices in MLP lay
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
 | --------------- | :----: | :----: | :----: |
 | [Learning to Route Among Specialized Experts for Zero-Shot Generalization](https://arxiv.org/pdf/2402.05859) | 2024 | ICLR | no Run|
-| 
+
+
+## Evaluation of  Model Merging
+| **Paper Title** | **Year** | **Conference/Journal** | **Code** |
+| --------------- | :----: | :----: | :----: |
+| [MergeBench: A Benchmark for Merging Domain-Specialized LLMs](https://arxiv.org/pdf/2505.10833) | 2025 | NeurIPS | no Run|
 
 ## methods for model merging
 
