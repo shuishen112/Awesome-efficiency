@@ -72,6 +72,7 @@ Recent work about the sparsity has framed the rows of weight matrices in MLP lay
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
 | --------------- | :----: | :----: | :----: |
 | [An Empirical Study of Multimodal Model Merging](https://arxiv.org/pdf/2304.14933) | 2023 | EMNLP | no Run|
+| [OptMerge: UNIFYING MULTIMODAL LLM CAPABILI-TIES AND MODALITIES VIA MODEL MERGING](https://arxiv.org/pdf/2505.19892) | 2026 | ICLR | no Run|
 
 ### model merging survey
 
